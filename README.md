@@ -5,3 +5,4 @@
 2. Understand data
 3. Identify trends
 4. Propose insight
+5. Create Visualizations
