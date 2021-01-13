@@ -7,5 +7,5 @@
 4. Propose insight
 5. Create Visualizations
 
-## Tools
+## Tools (in Python)
 1. Python
