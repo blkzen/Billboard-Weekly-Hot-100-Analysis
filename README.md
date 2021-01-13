@@ -8,4 +8,5 @@
 5. Create Visualizations
 
 ## Tools (in Python)
-1. Python
+1. Pandas
+2. Numpy
