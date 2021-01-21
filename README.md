@@ -7,7 +7,7 @@
 4. Propose insight
 5. Create Visualizations
 
-## Tools (in Python)
+## Packages (in Python)
 1. Pandas
 2. Numpy
 3. Matplotlib
